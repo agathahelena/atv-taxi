@@ -115,7 +115,30 @@ main section.features div.inicio div.lista ul.lado-a-lado{
 main section.features div.inicio div.lista ul li p{
   margin: 0px 10px 0px 0px;
 }
-main section.features div.inicio div.lista ul li{
-    
+main section.features div.inicio div.lista{
+  
 }
 
+/*//////////////////////////////////////////////
+
+                AMARELO 
+
+//////////////////////////////////////////////*/
+
+
+section.amarelo {
+    padding: 0 15vw 0 15vw;
+    background-color: #FBBC05;
+    border: #FBBC05;
+    border-radius: 20px;
+    margin:  0 10vw 10vw 10vw;
+}
+section.amarelo div.letras  {
+    color: aliceblue;
+    margin: 10vw ;
+    padding: 5vw 0vw 5vw vw;
+}
+section.amarelo div.letras h2 {
+   font-size: 2rem ;
+   font-weight: bold;
+}
